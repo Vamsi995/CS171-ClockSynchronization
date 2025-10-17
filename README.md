@@ -24,7 +24,7 @@ Make sure you have the following installed:
 Run the Autograder
 
 ```bash
-python autograder.py --submissions <submission folder containing the makefile>
+python autograder.py --submission <submission folder containing the makefile>
 ```
 
 For example:
